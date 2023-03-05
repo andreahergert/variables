@@ -10,7 +10,7 @@ Practice coding of the https://wesbos.com/ 30 Days of JavaScript Day 3
 
 ## Usage:
 
-Webpage: 
+Webpage: https://andreahergert.github.io/variables/ 
 
 Screenshots:
 
